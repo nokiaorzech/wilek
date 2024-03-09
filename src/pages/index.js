@@ -9,9 +9,9 @@ export default function Home() {
   return (
     <>   
             <p>
-              Instantly deploy your Next.js site to a shareable URL
-              with&nbsp;Vercel.
+            ygehrsaufi
             </p>
+            scewpansddas
     </>
   );
 }
